@@ -1,0 +1,21 @@
+body{
+  color: #130047;
+  margin: 0 5% 0 5%  !important;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+  font-size: 35px;
+  color: #130047;
+  padding:20px 0 10px 0;
+}
+
+#map {
+    height: 70%;
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
